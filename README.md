@@ -1,7 +1,3 @@
-Done — `README.md` has been saved with:
-
-
-
 \### What's included
 
 
